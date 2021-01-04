@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 30px;
+}
+.note_design{
+    color: black;
+    font-size: 15px;
+}
+#h4tag{
+    font-size: 25px;
+}
